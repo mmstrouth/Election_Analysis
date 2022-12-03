@@ -41,13 +41,13 @@ The analysis of the election show that:
 - The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
 ## Election Audit Summary
-Thank you for the opportunity to provide these services to your electorate. The developed code can continued to be used in future electiions with only minor changes. The first, and possibly most important update to the script, will be the election results csv file (which should be named with the year).
+Thank you for the opportunity to provide these services to your electorate. The developed code can continued to be used in future electiions with minor updates. The first, and possibly most important update to the script, will be the election results csv file (which should be named with the year) and ensuring that the path to reference the appropriate file is correct.
 
-insert
+![This is an image] (https://github.com/mmstrouth/Election_Analysis/blob/5801379ccdccda39bf5c20a9500b050aa9057d58/Resources/correct_path%20_reference.png) 
 
 I also recommend that you ensure that your new csv file follow the same set-up as the first provided with the following column headers, listed in order: ballot ID, county name, and candidate name. If the set-up is not the same the following code will need to be updated to reference the correct column. It's important to note that in this coding language, counting of columns starts with 0, therefore the ballot ID was 0, county name was 1, and candidate name was 2; thus, the number in [] would need to be updated with any column header changes. 
 
-insert
+![This is an image] (https://github.com/mmstrouth/Election_Analysis/blob/5801379ccdccda39bf5c20a9500b050aa9057d58/Resources/correct_column_reference.png)
 
 
 
