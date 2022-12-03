@@ -11,6 +11,7 @@ A Colorado Board of Election employee has given you the following tasks to compl
 6. Calculate the total number of votes each candidate received.
 7. Calculate the percentage of votes each candidate won.
 8. Determine the winner of the election based on popular vote.
+9. Provide a written analysis.
 
 ## Resources
 - Data Source: election_results.csv
