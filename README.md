@@ -28,7 +28,7 @@ The analysis of the election show that:
   - Arapahoe County voters cast 24,801 votes, totaling 6.7% of the total.
   - Denver County voters cast 306,055 votes, totaling 82.8% of the total.
   - Jefferson County voters cast 38,855 votes, totaling 10.5% of the total.
-- The county with the largest turnout was Denver County voters cast 306,055 votes, totaling 82.8% of the total.
+- The county with the largest turnout was Denver County; in this county, the voters cast 306,055 votes, totaling 82.8% of the total.
 
 - The candidates were:
   - Charles Casper Stockham
