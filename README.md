@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Overview of Election Audit
 A Colorado Board of Election employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -17,7 +17,7 @@ A Colorado Board of Election employee has given you the following tasks to compl
 - Data Source: election_results.csv
 - Software: Python 3.10.8, Visual Studio Code, 1.73.1
 
-# Summary
+# Election Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The counties  were:
@@ -40,7 +40,5 @@ The analysis of the election show that:
   - Raymon Anthony Doane received 3.1% of the vote, totaling 11,606 votes.
 - The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
-## Challenge Overview
-
-## Challenge Summary
+## Election Audit Summary
 
