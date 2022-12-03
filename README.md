@@ -15,17 +15,26 @@ A Colorado Board of Election employee has given you the following tasks to compl
 
 # Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+- There were 369,711 votes cast in the election.
+- The counties  were:
+  - Arapahoe
+  - Denver
+  - Jefferson
+- The county results were:
+  - Arapahoe County voters cast 24,801 votes, totaling 6.7% of the total.
+  - Denver County voters cast 306,055 votes, totaling 82.8% of the total.
+  - Jefferson County voters cast 38,855 votes, totaling 10.5% of the total.
+- The county with the largest turnout was Denver County voters cast 306,055 votes, totaling 82.8% of the total.
+
 - The candidates were:
-  - X
-  - Y
-  - Z
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were:
-  - Candidate X received X% of the vote and X number of votes.
-  - Candidate Y received Y% of the vote and Y number of votes.
-  - Candidate Z received Z% of the vote and Z number of votes.
-- The winner of the election was:
-  - Candidate __, who received __% of the vote and __ number of votes.
+  - Charles Casper Stockham received X% of the vote and X number of votes.
+  - Diana DeGette received Y% of the vote and Y number of votes.
+  - Raymon Anthony Doane received Z% of the vote and Z number of votes.
+- The winner of the election was Diana DeGette, who received __% of the vote and __ number of votes.
 
 ## Challenge Overview
 
